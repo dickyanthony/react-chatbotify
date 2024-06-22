@@ -1029,13 +1029,13 @@ const os = ({
       let h = "";
       switch (I.userInput) {
         case "Quickstart":
-          h = "https://react-chatbotify.tjtanjin.com/docs/introduction/quickstart/";
+          h = "https://github.com/dickyanthony/react-chatbotify/docs/introduction/quickstart/";
           break;
         case "API Docs":
-          h = "https://react-chatbotify.tjtanjin.com/docs/api/bot_options";
+          h = "https://github.com/dickyanthony/react-chatbotify/docs/api/bot_options";
           break;
         case "Examples":
-          h = "https://react-chatbotify.tjtanjin.com/docs/examples/basic_form";
+          h = "https://github.com/dickyanthony/react-chatbotify/docs/examples/basic_form";
           break;
         case "Github":
           h = "https://github.com/tjtanjin/react-chatbotify/";
